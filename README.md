@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Lee</h1>
 
 - 📫 How to reach me **anthonyrlee2025@gmail.com**
-- ✉️ My LinkedIN **https://www.linkedin.com/in/-anthony-lee/**
+- ✉️ My LinkedIn **https://www.linkedin.com/in/-anthony-lee/**
 - 🧑‍💻 View my personal website **anthonyrlee2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
