@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **anthonyrlee2025@gmail.com**
 - ✉️ My LinkedIn **https://www.linkedin.com/in/-anthony-lee/**
-- 🧑‍💻 View my personal website **anthonyrlee2025@gmail.com**
+- 🧑‍💻 View my Portfolio **https://anthony-r-lee.github.io/hosted_portfolio**
 - 🗨️ Message me on Discord **https://discordapp.com/users/1266489208277696534**
 
 <h3 align="left">Connect with me:</h3>
